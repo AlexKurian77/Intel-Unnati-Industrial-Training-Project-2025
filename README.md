@@ -52,7 +52,6 @@ python record_video.py
 |------|-------------|
 | `customer_heatmap.png` | Heatmap showing areas with high customer footfall |
 | `Mall_Customers.csv` | Dataset used for clustering analysis |
-| `output_video.mp4` (if implemented) | Annotated video showing detected customers (bounding boxes, zones) |
 
 ---
 
